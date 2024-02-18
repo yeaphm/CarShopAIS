@@ -14,7 +14,7 @@ It consists of the basic operations in selling cars, managing clients, and condu
 ## Usage/Examples
 
 * The interface is implemented via WinForms
-* Add your **firebird** database file, named CARSHOP.FDB to the bin/Data directory after compilation of the project.
+* Add your **firebird** database file, named CARSHOP.FDB to the **bin/Data** directory after compilation of the project.
 
 
 ## License
