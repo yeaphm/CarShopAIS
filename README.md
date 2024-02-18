@@ -19,4 +19,4 @@ It consists of the basic operations in selling cars, managing clients, and condu
 
 ## License
 
-The Crossword Generator is released under the [MIT](https://choosealicense.com/licenses/mit/). Feel free to use, modify, and distribute the project as per the terms of the license.
+The Car Shop AIS is released under the [MIT](https://choosealicense.com/licenses/mit/). Feel free to use, modify, and distribute the project as per the terms of the license.
